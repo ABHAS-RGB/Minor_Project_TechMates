@@ -23,9 +23,9 @@ The primary objectives of this project are:
 •	To implement and evaluate different auto-scaling policies
 •	To analyze system behavior under low, moderate, and burst workloads
 •	To study the trade-off between performance, stability, and cost
-•	To derive practical insights that can guide real-world cloud deployment decisions
-________________________________________
-4. Proposed Solution Approach
+•	To derive practical insights that can guide real-world cloud deployment
+
+5. Proposed Solution Approach
 The proposed solution follows a step-by-step experimental methodology:
 1.	Develop a minimal web application with predictable and repeatable CPU behavior
 2.	Deploy the application on a cloud virtual machine
@@ -36,7 +36,7 @@ The proposed solution follows a step-by-step experimental methodology:
 7.	Collect and analyze performance data
 8.	Compare results across policies to identify strengths and limitations
 Only one variable (scaling policy) will be changed at a time to ensure a fair and valid comparison.
-________________________________________
+
 5. Auto-Scaling Policies Under Study
 The project will analyze the following auto-scaling strategies:
 •	Manual Scaling: Instances are added or removed manually based on observed load
