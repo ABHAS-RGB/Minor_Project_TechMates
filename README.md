@@ -52,7 +52,7 @@ The system will be evaluated using the following metrics:
 •	Average number of active instances
 •	Estimated operational cost
 These metrics provide a balanced view of user experience, system stability, and cost efficiency.
-________________________________________
+
 7. Scope and Constraints
 Scope:
 •	Focused on compute-layer auto-scaling
@@ -62,14 +62,14 @@ Constraints:
 •	No database or persistent storage
 •	Limited instance count for cost control
 •	Fixed workload patterns for repeatability
-________________________________________
+
 8. Expected Outcome
 The expected outcome of this project is a comparative performance analysis that clearly demonstrates how different auto-scaling policies behave under identical workload conditions. The results will help identify which policies are better suited for:
 •	Cost-sensitive applications
 •	Performance-critical applications
 •	Predictable vs unpredictable workloads
-________________________________________
-9. Conclusion
+
+10. Conclusion
 This project is designed as a controlled, practical study of cloud auto-scaling behavior rather than a feature demonstration. By keeping the application simple and the experiment well-defined, the focus remains on understanding system behavior and making informed engineering trade-offs.
 
 
