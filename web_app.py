@@ -21,7 +21,7 @@ def home():
 
 
 # CPU Load Simulation
-# -----------------------------
+
 @app.route("/cpu-load")
 def cpu_load():
 
