@@ -47,7 +47,7 @@ def cpu_load():
 
 
 # Memory Load Simulation
-#
+
 @app.route("/memory-load")
 def memory_load():
 
