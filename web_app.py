@@ -59,7 +59,7 @@ def memory_load():
     })
 
 
-# -----------------------------
+
 # Request Processing Simulation
 # -----------------------------
 @app.route("/process")
