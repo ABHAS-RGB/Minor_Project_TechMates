@@ -90,7 +90,7 @@ def health():
 
  
 # Run Flask App
-# -----------------------------
+
 if __name__ == "__main__":
     print("Starting Cloud Auto-Scaling Test Server...")
     app.run(host="0.0.0.0", port=5000)
