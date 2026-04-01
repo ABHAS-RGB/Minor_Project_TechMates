@@ -77,7 +77,7 @@ def process_request():
 
 
 
-# Health Checkkk
+# Health Check
  
 
 @app.route("/health")
