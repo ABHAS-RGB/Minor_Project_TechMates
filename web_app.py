@@ -78,7 +78,6 @@ def process_request():
 
 
 # Health Check
- 
 
 @app.route("/health")
 def health():
@@ -88,7 +87,7 @@ def health():
     })
 
 
- 
+
 # Run Flask App
 
 if __name__ == "__main__":
