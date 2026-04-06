@@ -5,7 +5,6 @@ import psutil
 
 URL = "http://127.0.0.1:5000/cpu-load"
 
-
 def send_request():
     try:
         requests.get(URL)
