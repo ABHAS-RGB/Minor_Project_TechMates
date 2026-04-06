@@ -6,8 +6,6 @@ import os
 
 app = Flask(__name__)
 
-
-
 # Home Endpoint
 
 @app.route("/")
