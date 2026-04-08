@@ -11,7 +11,6 @@ def send_request():
     except:
         pass
 
-
 print("\nStarting Load Test...\n")
 
 for round in range(1, 20):
